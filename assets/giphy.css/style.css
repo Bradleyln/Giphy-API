@@ -1,0 +1,41 @@
+body {
+	background-image: url("");
+	background-size: cover;
+	background-repeat: no-repeat center center fixed;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.header{
+	text-align: center;
+}
+
+h1{
+	font-size: 40px;
+	font-weight: bold;
+}
+
+p{
+	font-size: 20px;
+}
+
+#add-something,
+.somethingButton{
+	background-color: #6E989E;
+	color:#FCF5EB;
+	margin: 5px;
+	text-align: center;
+}
+
+
+.somethingButton:hover {
+  background-color: #8BACB1;
+}
+
+#add-something:hover {
+	background-color: #8BACB1;
+}
+
+.somethingButton:active {
+  background-color: #88acb1;
+
+}
